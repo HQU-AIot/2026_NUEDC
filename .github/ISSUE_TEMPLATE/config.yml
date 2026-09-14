@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 普通问题与讨论
+    url: https://github.com/HQU-AIot/2026_NUEDC/discussions
+    about: 非收录申请的问题请在 Discussions 中提出
